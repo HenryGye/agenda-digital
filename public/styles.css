@@ -1,0 +1,11 @@
+#calendar {
+    
+}
+
+.fc .fc-toolbar-title::before {
+  content: 'Calendario - Semana del ';
+}
+
+.fc .fc-toolbar-title {
+  font-size: 1.5em;
+}
