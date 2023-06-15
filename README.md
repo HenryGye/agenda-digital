@@ -16,4 +16,3 @@
 * generar key
   - php artisan key:generate
 
-* no se usa migraciones, una vez creada la base de datos con las tablas, crear los modelos correspondienetes
